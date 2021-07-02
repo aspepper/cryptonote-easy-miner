@@ -125,7 +125,7 @@ namespace CryptoNoteMiner
         {
             var args = new [] { 
                 "--generate-new-wallet=\"" + AppDomain.CurrentDomain.BaseDirectory + "wallet\"", 
-                "--password=x"
+                "--password=essaéumacarteiratemporária#1972"
             };
             Console.WriteLine(String.Join(" ", args));
             ProcessStartInfo psi = new ProcessStartInfo(simplewalletPath, String.Join(" ", args))

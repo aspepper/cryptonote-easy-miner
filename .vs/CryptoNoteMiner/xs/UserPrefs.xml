@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{8047E257-DE3D-4C2A-8498-6FD586D7053D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CryptoNoteMiner/Main.cs">
+    <Files>
+      <File FileName="CryptoNoteMiner/ArchitectureCheck.cs" Line="1" Column="1" />
+      <File FileName="CryptoNoteMiner/Program.cs" Line="18" Column="66" />
+      <File FileName="CryptoNoteMiner/Main.cs" Line="135" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CryptoNoteMiner" expanded="True">
+            <Node name="CryptoNoteMiner" expanded="True" selected="True">
+              <Node name="bin" expanded="True" />
+              <Node name="binaries" expanded="True">
+                <Node name="cpuminer" expanded="True">
+                  <Node name="64bit" expanded="True" />
+                </Node>
+                <Node name="simplewallet" expanded="True">
+                  <Node name="64bit" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CryptoNoteMiner PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
